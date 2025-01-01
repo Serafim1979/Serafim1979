@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋, my name is Ivan
+#### I'm a novice developer.
 
-<!--
-**Serafim1979/Serafim1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about software development, with experience in creating interactive applications and simulations in C++ using WinAPI. I have about 1 year of commercial development experience.
 
-Here are some ideas to get you started:
+- I know the basics of algorithms, data structures, and statistics, and I'm actively learning Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- The main experience is related to solving applied problems in advanced training courses.
+
+- Previously worked in the automotive industry.
+
+Professional skills:
+- knowledge of C/C++ / Python programming languages;
+- knowledge of basic data structures;
+- good understanding of the principles of algorithms and OOP, striving for clean code;
+- experience working with Git.
+- I have a high level of self-organization, I am open to new knowledge and difficult tasks.
+
+Skills: C / C++ / Git/ HTML / CSS
+
+- 🔭 I’m currently working on this page. 
